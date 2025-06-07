@@ -8,6 +8,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/FarmWise-UPC/Microservices
+          uri: https://github.com/AndreVMG/microservices-config
           default-label: main
           clone-on-start: true
